@@ -1,3 +1,4 @@
+package Code;
 public class Main {
     public static void main(String[] args) {
         Student student = new Student("S101", "Anshul", "A");

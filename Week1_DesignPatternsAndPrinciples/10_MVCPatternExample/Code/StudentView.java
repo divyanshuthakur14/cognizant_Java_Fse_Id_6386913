@@ -1,3 +1,4 @@
+package Code;
 public class StudentView {
     public void displayStudentDetails(String id, String name, String grade) {
         System.out.println("Student Details:");

@@ -1,3 +1,4 @@
+package Code;
 public class StudentController {
     private Student model;
     private StudentView view;
